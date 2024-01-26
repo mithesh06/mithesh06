@@ -1,4 +1,4 @@
-- 👋 Hi, This is @mithesh06
+- Specialized in Data Analytics| Data Visualization | Machine Learning | 
 
 <!---
 mithesh06/mithesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
