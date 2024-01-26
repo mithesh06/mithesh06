@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mithesh06
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DL
+- 👋 Hi, This is @mithesh06
 
 <!---
 mithesh06/mithesh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
