@@ -11,7 +11,7 @@ I am a passionate Data Analyst and Blockchain Developer with a strong background
 - **Blockchain Development:** Blockchain solutions using Solana, Rust.
 - **Data Visualization:** Expertise in creating informative and visually appealing charts, graphs, and dashboards to communicate insights effectively.
 - **Database Management:** Proficient in designing and managing databases, including relational databases (e.g., MySQL) and NoSQL databases (e.g., MongoDB).
-- **Blockchain Protocols:** Familiar with various blockchain protocols and consensus mechanisms, including proof of work (PoW) and proof of stake (PoS).
+- **Blockchain Protocols:** Familiar with various blockchain protocols and consensus mechanisms, including proof of work (PoW), proof of stake (PoS) and proof of coverage(PoC).
 
 
 ## Contact Me
