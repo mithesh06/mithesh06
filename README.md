@@ -1,4 +1,4 @@
-# [Mithesh Shankar]'s Data Analyst & Blockchain Developer Portfolio
+# Mithesh Shankar's Data Analyst & Blockchain Developer Portfolio
 
 ## About Me
 
