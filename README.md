@@ -15,14 +15,6 @@ On the analytics side, I love using tools like **Pandas** and **Scikit-learn** t
 
 ---
 
-### 💻 **What I’m Working On**
-
-- Developing smart contracts on **Solana** that mimic credit card transactions and bulk payment applications.
-- Building applications for **DePIN devices**, focusing on bulk rewards claiming and integrating decentralized IoT solutions.
-- Exploring blockchain migration tools for seamless transitions between different blockchains.
-
----
-
 ### 🌟 **What I Love**
 
 - **Blockchain & Rust**: I’m a huge fan of decentralized systems and love working with **Rust** to build secure and efficient blockchain applications.
