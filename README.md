@@ -19,16 +19,15 @@ On the analytics side, I love using tools like **Pandas** and **Scikit-learn** t
 
 - **Blockchain & Rust**: I’m a huge fan of decentralized systems and love working with **Rust** to build secure and efficient blockchain applications.
 - **Data Analytics**: I enjoy diving deep into data to uncover trends and insights, working with libraries like **Pandas**, **Numpy**, and **Scikit-learn**.
-- **AI and Computer Vision**: Recently, I’ve been exploring **YOLOv8** and **ChatGPT API** to build AI-powered solutions that enhance user experiences, like my project that suggests home decor ideas from user-uploaded images.
 
 ---
 
 ### 🛠️ **Skills & Tools**
 
-- **Programming**: Rust, Python, SQL, Java, R, C++
-- **Blockchain**: Solana, Smart Contracts, SPL-token
+- **Programming**: Rust, Python, SQL, Solidity, Java, R, C++
+- **Blockchain**: Solana, Smart Contracts, SPL-token, Anchor
 - **Data Analytics**: Pandas, Scikit-learn, Seaborn, Matplotlib
-- **Web Development**: Flask, TypeScript, HTML, Docker
+- **Web Development**: Flask, FastAPI, TypeScript, HTML, Docker
 - **Cloud & APIs**: Google Cloud, Firebase, gspread, ngrok
 
 ---
