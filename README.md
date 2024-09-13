@@ -1,7 +1,7 @@
 # Mithesh Shankar
 
 **Smart Contract Developer | Rust Enthusiast | Data Analytics Explorer**  
-Chennai, Tamil Nadu | mitheshshankar2020@gmail.com | [LinkedIn](https://www.linkedin.com/in/mitheshshankar)  
+mitheshshankar2020@gmail.com | [LinkedIn](https://www.linkedin.com/in/mitheshshankar)  
 
 ---
 
