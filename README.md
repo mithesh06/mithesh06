@@ -1,4 +1,4 @@
-# Mithesh Shankar
+# D Mithesh Shankar
 
 **Smart Contract Developer | Rust Enthusiast | Data Analytics Explorer**  
 mitheshshankar2020@gmail.com | [LinkedIn](https://www.linkedin.com/in/mitheshshankar)  
