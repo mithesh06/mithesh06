@@ -27,8 +27,8 @@ On the analytics side, I love using tools like **Pandas** and **Scikit-learn** t
 - **Programming**: Rust, Python, SQL, Solidity, Java, R, C++
 - **Blockchain**: Solana, Smart Contracts, SPL-token, Anchor
 - **Data Analytics**: Pandas, Scikit-learn, Seaborn, Matplotlib
-- **Web Development**: Flask, FastAPI, TypeScript, HTML, Docker
-- **Cloud & APIs**: Google Cloud, Firebase, gspread, ngrok
+- **Web Development**: Flask, FastAPI, TypeScript, HTML, Docker, Actix, Tokio, Serde, bluer, zbus, utoipa
+- **Cloud & APIs**: AWS, Google Cloud, Firebase, gspread, ngrok, Shellhub
 
 ---
 
